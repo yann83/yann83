@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
 This repo is offwork, I'm doing program by pleasure when I got time.
---->
+
