@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yann83
-- 👀 I’m interested in autoit,python and php lanquages
-- 🌱 I’m currently learning php and synfony
+- 👀 I’m interested in autoit,python javascript, api and php lanquages
+- 🌱 I’m currently learning php , synfony, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
